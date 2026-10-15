@@ -1,4 +1,6 @@
-groq
-uvicorn
 fastapi
-python-dotenv
+openai
+ollama
+
+
+

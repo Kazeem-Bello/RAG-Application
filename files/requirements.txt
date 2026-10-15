@@ -1,0 +1,21 @@
+# === Core LangChain & Vector DB ===
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-huggingface>=0.1.0
+chromadb>=0.5.0
+
+# === Embeddings & Model Access ===
+huggingface-hub>=0.23.0
+transformers>=4.41.0
+sentence-transformers>=2.6.0
+
+# === Document Loading & Text Processing ===
+pypdf>=4.2.0
+pandas>=2.2.0
+
+# === Environment & Utilities ===
+python-dotenv>=1.0.1
+
+# === Frontend (for next phase) ===
+streamlit>=1.37.0
+streamlit-chat>=0.1.1
