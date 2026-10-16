@@ -1,6 +1,8 @@
 fastapi
 openai
 ollama
+pydantic
+requests
 
 
 

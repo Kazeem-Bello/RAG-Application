@@ -6,9 +6,6 @@ client = Client(
 )
 
 
-
-
-
 while True:
     input_text = input("Paste your prompt here:")
     print("="*30)
