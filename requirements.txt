@@ -3,6 +3,10 @@ openai
 ollama
 pydantic
 requests
-
-
-
+langchain
+langchain[openai]
+pdfplumber 
+langchain_community
+langchain_text_splitters
+langchain-qdrant
+jq

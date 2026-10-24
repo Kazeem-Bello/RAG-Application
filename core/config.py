@@ -8,6 +8,7 @@ class Settings (BaseSettings):
     
     OPENAI_API_KEY: str
     OLLAMA_BASE_MODEL: str
+    QDRANT_BASE_URL: str
     
     
     
